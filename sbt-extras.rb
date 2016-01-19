@@ -1,4 +1,4 @@
-#installed from https://codeload.github.com/paulp/sbt-extras/zip/master
+#curl -L https://github.com/paulp/sbt-extras/archive/master.zip | shasum -a 256
 class SbtExtras < Formula
   desc "SBT Extras by Paul Phillips"
   version "0.13.9-93a46f"
