@@ -1,3 +1,4 @@
+#installed from https://codeload.github.com/paulp/sbt-extras/zip/master
 class SbtExtras < Formula
   desc "SBT Extras by Paul Phillips"
   version "0.13.9-93a46f"
